@@ -15,7 +15,9 @@
 
 
 /* this is header */
-
+a:link {
+    color: #707070;
+}
 
 .logo {
     width: 122px;
